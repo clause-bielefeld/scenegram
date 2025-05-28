@@ -1,0 +1,13 @@
+*__pycache__
+*ipynb_checkpoints
+generated_data/*
+!generated_data/dense10_items.json
+generated_items/*.png
+generated_samples/*
+argilla/*argilla_credentials.sh
+analyzing_annotations/clip_model
+collected_data/*
+modelling/model_weights
+predicted_data/*/*
+!predicted_data/processed/processed_predictions_twostep.csv
+slurm/*.out
