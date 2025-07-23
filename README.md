@@ -1,4 +1,6 @@
-# SceneGram Dataset
+# SceneGram
+
+Code and data for the paper ["SceneGram: Conceptualizing and Describing Tangrams in Scene Context"](https://aclanthology.org/2025.findings-acl.1229/) (ACL Findings 2025)
 
 ## Steps for Building Dataset:
 
@@ -89,8 +91,6 @@ After this:
     - Prompt: "a photograph of a(n) [scene]"
 
 ## Citing this Project
-
-[https://aclanthology.org/2025.findings-acl.1229/](https://aclanthology.org/2025.findings-acl.1229/)
 
 ```
 @inproceedings{junker-zarriess-2025-scenegram,
